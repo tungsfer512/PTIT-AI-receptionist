@@ -29,4 +29,4 @@ async def root():
     return {"message": "websocket server is running. Connect to /ws for websocket communication"}
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host = "0.0.0.0", port = 5050, log_level="debug", reload=True)
+    uvicorn.run("main:app", host = "0.0.0.0", port = 5050, log_level="info", reload=True)

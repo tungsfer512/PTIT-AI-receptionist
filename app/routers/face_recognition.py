@@ -41,7 +41,8 @@ async def websocket_endpoint(websocket: WebSocket):
     except WebSocketDisconnect:
         TARGET_WEBSOCKET = None
     except Exception as err:
-        raise HTTPException(status_code = 502, detail = err)
+        # raise HTTPException(status_code = 502, detail = err)
+        print(err)
 
 @router.post("/api/get-identity")
 async def get_identity(
@@ -51,12 +52,9 @@ async def get_identity(
 ):
     global TARGET_WEBSOCKET, manager
     if not TARGET_WEBSOCKET:
-        raise HTTPException(status_code = 503, detail = "Chưa có ai kết nối đến máy chủ!")
+        raise HTTPException(status_code = 500, detail = "Chưa có ai kết nối đến máy chủ!")
     try:
         decoded_data = extract_data(data)
-        conn = get_conn()
-        cursor = conn.cursor()
-        cursor.execute()
         await manager.send_response({
             "key": "cccd",
             "value": json.dumps(decoded_data)
@@ -86,7 +84,7 @@ async def post_personal_img(
     current_path = os.getcwd()
     save_img_path = os.path.join(current_path, "app", "data", "img", personal_id)
     if os.path.exists(save_img_path):
-        return {"response": "Request thành công"}
+        shutil.rmtree(save_img_path)
 
     os.makedirs(save_img_path)
     try:

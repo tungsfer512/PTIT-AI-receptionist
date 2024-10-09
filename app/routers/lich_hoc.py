@@ -4,10 +4,10 @@ import shutil
 import json
 import os
 from sqlalchemy.orm import Session
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, HTTPException, status, Query
 from database.database import get_db
 
-from services.dependencies import extract_lichHoc_from_xlsx, get_lichHoc
+from services.dependencies import extract_lichHoc_from_xlsx, get_lichHoc, get_lichGiangDay
 
 router = APIRouter()
 
@@ -31,5 +31,9 @@ def post_lich_hoc(file: UploadFile = File(...)):
         raise HTTPException(status_code = status.HTTP_500_INTERNAL_SERVER_ERROR, detail = err )
 
 @router.get("/api/get-lich-hoc/{cccd}")
-def get_lich_hoc(cccd: str, db: Session = Depends(get_db)):
-    return get_lichHoc(cccd, db)
+def get_lich_hoc(cccd: str, ngaybatdau: str = Query(None), db: Session = Depends(get_db)):
+    return get_lichHoc(cccd, db, ngaybatdau)
+
+@router.get("/api/get-lich-giang-day/{cccd}")
+def get_lich_giang_day(cccd: str, ngaybatdau: str = Query(None), db: Session = Depends(get_db)):
+    return get_lichGiangDay(cccd, db, ngaybatdau)

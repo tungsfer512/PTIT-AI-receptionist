@@ -1,76 +1,92 @@
 [
     {
-        "name": "\u0110\u1ea1i di\u1ec7n L\u0110V d\u1ef1 cu\u1ed9c h\u1ecdp b\u00e1o c\u00e1o v\u1ec1 t\u1ed5 ch\u1ee9c v\u00e0 qu\u1ea3n l\u00fd \u0111\u00e0o t\u1ea1o tr\u1ef1c tuy\u1ebfn.  .",
-        "attendees": "A.Tu\u1ea5n  (P.NCPTCNS)",
-        "location": "P.h\u1ecdp 210-A1, CSH\u0110",
-        "iso_datetime": "2024-09-30T09:00:00"
+        "name": "Ban L\u0110V h\u1ecdp giao ban to\u00e0n th\u1ec3",
+        "attendees": "Tr\u01b0\u1edfng c\u00e1c \u0111\u01a1n v\u1ecb; Ph\u00f2ng TH (B\u1ed9 ph\u1eadn TCKT; QLH\u0110);  ",
+        "preparation": "Ph\u00f2ng TH ",
+        "location": "HT.A",
+        "iso_datetime": "2024-10-07T09:00:00"
     },
     {
-        "name": "\u0110\u1ea1i di\u1ec7n L\u0110V d\u1ef1 cu\u1ed9c h\u1ecdp b\u00e1o c\u00e1o v\u1ec1 t\u1ed5 ch\u1ee9c v\u00e0 qu\u1ea3n l\u00fd \u0111\u00e0o t\u1ea1o tr\u1ef1c tuy\u1ebfn.  .",
-        "attendees": "A.Tu\u1ea5n  (P.NCPTCNS)",
-        "location": "P.h\u1ecdp 210-A1, CSH\u0110",
-        "iso_datetime": "2024-09-30T09:00:00"
+        "name": "A.Ch\u00ednh nghe b\u00e1o c\u00e1o v\u1ec1 t\u00ecnh h\u00ecnh ho\u00e0n thi\u1ec7n 02 nhi\u1ec7m v\u1ee5 \u0111\u1ecbnh m\u1ee9c KTKT",
+        "attendees": "P.\u0110LK\u0110&TCCL (A.S\u01a1n); P.TH (C.H\u01b0\u01a1ng)",
+        "location": "HT.A",
+        "iso_datetime": "2024-10-07T10:30:00"
+    },
+    {
+        "name": "A.D\u0169ng nghe b\u00e1o c\u00e1o c\u00f4ng t\u00e1c ph\u00f2ng NCPTCNS",
+        "attendees": "Ph\u00f2ng NCPTCNS",
+        "location": "P.H\u1ecdp L\u0110",
+        "iso_datetime": "2024-10-07T10:30:00"
     },
     {
         "name": "Ban L\u0110V h\u1ecdp giao ban to\u00e0n th\u1ec3",
         "attendees": "Tr\u01b0\u1edfng c\u00e1c \u0111\u01a1n v\u1ecb; Ph\u00f2ng TH (B\u1ed9 ph\u1eadn TCKT; QLH\u0110);  ",
         "preparation": "Ph\u00f2ng TH ",
         "location": "HT.A",
-        "iso_datetime": "2024-10-01T09:00:00"
+        "iso_datetime": "2024-10-07T09:00:00"
     },
     {
-        "name": "A.D\u0169ng nghe b\u00e1o c\u00e1o v\u1ec1 c\u00f4ng t\u00e1c d\u00e0o t\u1ea1o.",
-        "attendees": "Ph\u00f2ng QLKHCN&\u0110T.",
-        "location": "P.H\u1ecdp L\u0110.",
-        "iso_datetime": "2024-10-01T10:30:00"
-    },
-    {
-        "name": "Ban L\u0110V h\u1ecdp giao ban to\u00e0n th\u1ec3",
-        "attendees": "Tr\u01b0\u1edfng c\u00e1c \u0111\u01a1n v\u1ecb; Ph\u00f2ng TH (B\u1ed9 ph\u1eadn TCKT; QLH\u0110);  ",
-        "preparation": "Ph\u00f2ng TH ",
+        "name": "A.Ch\u00ednh nghe b\u00e1o c\u00e1o v\u1ec1 t\u00ecnh h\u00ecnh ho\u00e0n thi\u1ec7n 02 nhi\u1ec7m v\u1ee5 \u0111\u1ecbnh m\u1ee9c KTKT",
+        "attendees": "P.\u0110LK\u0110&TCCL (A.S\u01a1n); P.TH (C.H\u01b0\u01a1ng)",
         "location": "HT.A",
-        "iso_datetime": "2024-10-01T09:00:00"
+        "iso_datetime": "2024-10-07T10:30:00"
     },
     {
-        "name": "A.D\u0169ng nghe b\u00e1o c\u00e1o v\u1ec1 c\u00f4ng t\u00e1c d\u00e0o t\u1ea1o.",
-        "attendees": "Ph\u00f2ng QLKHCN&\u0110T.",
-        "location": "P.H\u1ecdp L\u0110.",
-        "iso_datetime": "2024-10-01T10:30:00"
+        "name": "A.D\u0169ng nghe b\u00e1o c\u00e1o c\u00f4ng t\u00e1c ph\u00f2ng NCPTCNS",
+        "attendees": "Ph\u00f2ng NCPTCNS",
+        "location": "P.H\u1ecdp L\u0110",
+        "iso_datetime": "2024-10-07T10:30:00"
     },
     {
-        "name": "A.D\u0169ng d\u1ef1 H\u1ed9i \u0111\u1ed3ng th\u1ea9m \u0111\u1ecbnh \u0111\u1ec1 \u00e1n Ch\u01b0\u01a1ng tr\u00ecnh LK\u0110T gi\u1eefa H\u1ecdc vi\u1ec7n v\u00e0 \u0110H Seoul Cyber",
-        "attendees": "Ph\u00f2ng \u01afDCGCN&\u0110T; ",
-        "location": "P.h\u1ecdp 210-A1, CSH\u0110",
-        "iso_datetime": "2024-10-02T08:30:00"
-    },
-    {
-        "name": "A.D\u0169ng d\u1ef1 H\u1ed9i \u0111\u1ed3ng th\u1ea9m \u0111\u1ecbnh \u0111\u1ec1 \u00e1n Ch\u01b0\u01a1ng tr\u00ecnh LK\u0110T gi\u1eefa H\u1ecdc vi\u1ec7n v\u00e0 \u0110H Seoul Cyber",
-        "attendees": "Ph\u00f2ng \u01afDCGCN&\u0110T; ",
-        "location": "P.h\u1ecdp 210-A1, CSH\u0110",
-        "iso_datetime": "2024-10-02T08:30:00"
-    },
-    {
-        "name": "Ban L\u0110V d\u1ef1 cu\u1ed9c h\u1ecdp X\u00e2y d\u1ef1ng chi\u1ebfn l\u01b0\u1ee3c KHCN c\u1ee7a Vi\u1ec7n giai \u0111o\u1ea1n 2025-2030.",
-        "attendees": "L\u0110 c\u00e1c \u0111\u01a1n v\u1ecb thu\u1ed9c Vi\u1ec7n.",
+        "name": "A.D\u0169ng h\u1ecdp tr\u1ef1c tuy\u1ebfn v\u1edbi tr\u01b0\u1eddng Fukuoka Institute of Technology, Nh\u1eadt B\u1ea3n v\u1ec1 h\u1ee3p t\u00e1c \u0111\u00e0o t\u1ea1o.",
+        "attendees": "P.QLKHCN&\u0110T",
         "location": "HT.A",
-        "iso_datetime": "2024-10-03T09:00:00"
+        "iso_datetime": "2024-10-08T11:00:00"
     },
     {
-        "name": "Ban L\u0110V d\u1ef1 cu\u1ed9c h\u1ecdp X\u00e2y d\u1ef1ng chi\u1ebfn l\u01b0\u1ee3c KHCN c\u1ee7a Vi\u1ec7n giai \u0111o\u1ea1n 2025-2030.",
-        "attendees": "L\u0110 c\u00e1c \u0111\u01a1n v\u1ecb thu\u1ed9c Vi\u1ec7n.",
+        "name": "A.D\u0169ng h\u1ecdp tr\u1ef1c tuy\u1ebfn v\u1edbi tr\u01b0\u1eddng Fukuoka Institute of Technology, Nh\u1eadt B\u1ea3n v\u1ec1 h\u1ee3p t\u00e1c \u0111\u00e0o t\u1ea1o.",
+        "attendees": "P.QLKHCN&\u0110T",
         "location": "HT.A",
-        "iso_datetime": "2024-10-03T09:00:00"
+        "iso_datetime": "2024-10-08T11:00:00"
     },
     {
-        "name": "Ban L\u0110V d\u1ef1 h\u1ecdp x\u00e9t t\u1ea1m \u1ee9ng l\u01b0\u01a1ng th\u00e1ng 9.2024",
-        "attendees": "C\u00f4ng \u0111o\u00e0n vi\u1ec7n; \u0110\u1ea1i di\u1ec7n L\u0110 c\u00e1c \u0111\u01a1n v\u1ecb thu\u1ed9c vi\u1ec7n; ph\u00f2ng TH.",
+        "name": " Ban L\u0110V d\u1ef1 h\u1ecdp v\u1ec1 ph\u00e1t tri\u1ec3n Lab 5G v\u00e0 h\u1ee3p t\u00e1c v\u1edbi Nokia.",
+        "attendees": "P.NCKTDVVT.",
+        "preparation": "P.NCKTDVVT; P.TH(ph/h)",
         "location": "HT.A",
-        "iso_datetime": "2024-10-04T10:00:00"
+        "iso_datetime": "2024-10-09T10:00:00"
     },
     {
-        "name": "Ban L\u0110V d\u1ef1 h\u1ecdp x\u00e9t t\u1ea1m \u1ee9ng l\u01b0\u01a1ng th\u00e1ng 9.2024",
-        "attendees": "C\u00f4ng \u0111o\u00e0n vi\u1ec7n; \u0110\u1ea1i di\u1ec7n L\u0110 c\u00e1c \u0111\u01a1n v\u1ecb thu\u1ed9c vi\u1ec7n; ph\u00f2ng TH.",
+        "name": " Ban L\u0110V d\u1ef1 h\u1ecdp v\u1ec1 ph\u00e1t tri\u1ec3n Lab 5G v\u00e0 h\u1ee3p t\u00e1c v\u1edbi Nokia.",
+        "attendees": "P.NCKTDVVT.",
+        "preparation": "P.NCKTDVVT; P.TH(ph/h)",
         "location": "HT.A",
-        "iso_datetime": "2024-10-04T10:00:00"
+        "iso_datetime": "2024-10-09T10:00:00"
+    },
+    {
+        "name": "A.D\u0169ng d\u1ef1 H\u1ed9i th\u1ea3o ng\u00e0y C\u0110S t\u1ec9nh B\u1eafc Giang.",
+        "attendees": "Ph\u00f2ng NCPTCNS",
+        "location": "TP.B\u1eafc Giang",
+        "iso_datetime": "2024-10-10T07:30:00"
+    },
+    {
+        "name": "A.D\u0169ng d\u1ef1 H\u1ed9i th\u1ea3o ng\u00e0y C\u0110S t\u1ec9nh B\u1eafc Giang.",
+        "attendees": "Ph\u00f2ng NCPTCNS",
+        "location": "TP.B\u1eafc Giang",
+        "iso_datetime": "2024-10-10T07:30:00"
+    },
+    {
+        "name": "A.Ch\u00ednh d\u1ef1 H\u1ed9i th\u1ea3o \u0111\u1ec1 t\u00e0i c\u1ea5p B\u1ed9  m\u00e3 s\u1ed1 \u0110I.49/24.",
+        "attendees": "Theo gi\u1ea5y m\u1eddi; P.\u0110LK\u0110&TCCL; P.QLKHCN&\u0110T",
+        "preparation": "Ph\u00f2ng \u0110LK\u0110&TCCL",
+        "location": "HT.A",
+        "iso_datetime": "2024-10-11T09:00:00"
+    },
+    {
+        "name": "A.Ch\u00ednh d\u1ef1 H\u1ed9i th\u1ea3o \u0111\u1ec1 t\u00e0i c\u1ea5p B\u1ed9  m\u00e3 s\u1ed1 \u0110I.49/24.",
+        "attendees": "Theo gi\u1ea5y m\u1eddi; P.\u0110LK\u0110&TCCL; P.QLKHCN&\u0110T",
+        "preparation": "Ph\u00f2ng \u0110LK\u0110&TCCL",
+        "location": "HT.A",
+        "iso_datetime": "2024-10-11T09:00:00"
     }
 ]

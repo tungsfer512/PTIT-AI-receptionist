@@ -34,3 +34,7 @@ def get_all_lich_tuan():
 @router.get("/api/get-lich-tuan/{cccd}")
 def get_lich_tuan(cccd: str):
     return get_lichTuan(cccd)
+
+@router.get("/api/get-lich-tuan")
+def get_lich_tuan():
+    return get_lichTuan()
